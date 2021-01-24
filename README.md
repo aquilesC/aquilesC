@@ -13,13 +13,13 @@ Short summary, find more on [aquiles.me](https://aquiles.me), or on [Twitter](ht
 - 📊 Data analysis software (see: [Disperpy](https://github.com/aquilesC/Disperpy) )
 
 ## Book
-- 📖 I have self-published an e-book, Python for the Lab, check it out [here](https://gum.co/kgSsv)
+- 📖 I have self-published an e-book, Python for the Lab, check it out [here in e-book format](https://gum.co/kgSsv) or [here in physical format](https://www.lulu.com/en/us/shop/aquiles-carattino/python-for-the-lab/paperback/product-4jwp67.html)
 
 ## Hobbies
 
-- 🌻 I am building a [Digital Garden](https://www.aquicarattino.com/blog/one-month-learning-public/) at [aquiles.me](https://aquiles.me), which is my personal attempt at learning in public. The code powering it is [here](https://github.com/aquilesC/static_website_builder).
+- 🌻 I maintain a [Digital Garden](hhttps://www.aquiles.me/digital_gardens_and_personal_blogs/) at [aquiles.me](https://aquiles.me), which is my personal attempt at learning in public. The code powering it is [here](https://github.com/aquilesC/static_website_builder).
 
-- ✍️ I am writing at [Python for the Lab](https://www.pythonforthelab.com), all things Python and instrument control. 
+- ✍️ I write at [Python for the Lab](https://www.pythonforthelab.com), all things Python and instrument control. 
 
 - 🌐 I like building websites with **Django**, such as [this](https://github.com/aquilesC/aquicarattino), [this](https://github.com/privalytics/privalytics.io), or [this](https://github.com/aquilesC/helpdesk_klimaat).
 
