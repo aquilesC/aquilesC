@@ -29,4 +29,4 @@ By mail:
 📫 hey@aquiles.me
 
 ## Newsletter
-You can check my newsletter: [Aquiles Newsletter](https://newsletter.privalytics.io/subscribe/4ae2d537-a9e3-4e31-b1e7-dd2a2cadce41/)
+You can check my newsletter: [Aquiles Newsletter](https://www.getrevue.co/profile/aquiles)
