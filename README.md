@@ -2,5 +2,5 @@
 
 Connect with me:
 - [https://www.linkedin.com/in/aquic](LinkedIn)
-- [https://www.twitter.com/aquicarattino)[Twitter]
+- [https://www.twitter.com/aquicarattino](Twitter)
 - [https://www.aquiles.me](My Corner of the Internet)
